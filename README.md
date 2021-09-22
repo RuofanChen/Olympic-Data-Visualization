@@ -30,8 +30,11 @@ The following tasks and questions will drive the visualization and interaction d
 ## Prototypes
 I’ve created a proof of concept visualization of this data.  
 This scatter plot describes 2012 summer olympic games medal count by country and the country's GDP(2015 estimated). x-axis is gdp y-axis is the number of medals. This is a marked scatter plot. When the mouse is hovering over the point, the country name will be displayed
-There is a linear relationship between GDP and the number of medals. As GDP increases, the country tends to win more medals at the summer Olympics.
+There is a linear relationship between GDP and the number of medals. As GDP increases, the country tends to win more medals at the summer Olympics.  
+
 [![image](https://user-images.githubusercontent.com/57047582/134273629-f4adb498-2362-47d5-a815-6ff1549d15b2.png)](https://vizhub.com/RuofanChen/af53cd1647bd45ebbfd0886ad51f5e48)
-  
-This bar chart shows the top athletes and their medals. This is an interactive bar chart. When your mouse is pointed at the athlete's bar, it will display the athlete's name, the year of the medal and the event in which the medal was awarded.
+    
+ 
+This bar chart shows the top athletes and their medals. This is an interactive bar chart. When your mouse is pointed at the athlete's bar, it will display the athlete's name, the year of the medal and the event in which the medal was awarded.  
+
 [![image](https://user-images.githubusercontent.com/57047582/134274019-9ac4e988-0215-4f3c-a5de-f81dd8bda8eb.png)](https://vizhub.com/RuofanChen/f1c54c3e6630474bb37f77bebd48f42f)
