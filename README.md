@@ -22,8 +22,9 @@ The following tasks and questions will drive the visualization and interaction d
 * What about the country’s medal-winning project? Use a pie chart to show the country’s recent two Olympic medals.
 
 
-## Sketches
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine) (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks). 
+## Sketches. 
+[![image](https://user-images.githubusercontent.com/57047582/134278357-048b0db5-f664-4bc9-b0ef-32be2a1e5c72.png)]
+[![image](https://user-images.githubusercontent.com/57047582/134278407-43866c07-5215-45ed-b64e-9c8d10fbb1a0.png)]. 
 
 
 
