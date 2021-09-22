@@ -17,8 +17,8 @@ The following tasks and questions will drive the visualization and interaction d
 
 * Do most countries perform differently in the Winter Olympics and the Summer Olympics? Use a map to display the number of medals won by each country. According to the year and the type of Olympic Games (optional in winter and summer).
 * How does GDP affect a country's performance? Use GDP and population data from 2015.
-* Use a line chart to show the change in the number of gold medals in a country over time.
 * Wants to see the athlete with the most medals? Use a bar chart to show the total number of medals, type of medals, the year of the medal and the event in which the medal was awarded.
+* Does the number of gold medals in a country changes over time? Can we see the trend?
 * What about the country’s medal-winning project? Use a pie chart to show the country’s recent two Olympic medals.
 
 
