@@ -9,16 +9,18 @@ Data key features:
 * Year (quantitative): Year
 * Medal (categorical): Which medal (gold, silver or bronze) did this athlete obtain
 * Country (categorical): Which country of political groups does this athlete belong to
-* Population (quantitative): The population of this county or political group
-* GDP.per.Capita (quantitative): The GDP/population for different country
 
 
 ## Questions & Tasks
 The following tasks and questions will drive the visualization and interaction decisions for this project:  
 
-* Do most countries perform differently in the Winter Olympics and the Summer Olympics?
-* How does GDP per capita affect a country's performance?
-* The trend of the number of medal for each country w.r.t. time.
+
+* Do most countries perform differently in the Winter Olympics and the Summer Olympics? Use a map to display the number of medals won by each country. According to the year and the type of Olympic Games (optional in winter and summer).
+* How does GDP affect a country's performance? Use GDP and population data from 2015.
+* Use a line chart to show the change in the number of gold medals in a country over time.
+* Wants to see the athlete with the most medals? Use a bar chart to show the total number of medals, type of medals, the year of the medal and the event in which the medal was awarded.
+* What about the country’s medal-winning project? Use a pie chart to show the country’s recent two Olympic medals.
+
 
 ## Sketches
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine) (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks). 
@@ -26,7 +28,10 @@ The following tasks and questions will drive the visualization and interaction d
 
 
 ## Prototypes
-I’ve created a proof of concept visualization of this data.
+I’ve created a proof of concept visualization of this data.  
+This scatter plot describes 2012 summer olympic games medal count by country and the country's GDP(2015 estimated). x-axis is gdp y-axis is the number of medals. This is a marked scatter plot. When the mouse is hovering over the point, the country name will be displayed
+There is a linear relationship between GDP and the number of medals. As GDP increases, the country tends to win more medals at the summer Olympics.
 [![image](https://user-images.githubusercontent.com/57047582/134273629-f4adb498-2362-47d5-a815-6ff1549d15b2.png)](https://vizhub.com/RuofanChen/af53cd1647bd45ebbfd0886ad51f5e48)
-
+  
+This bar chart shows the top athletes and their medals. This is an interactive bar chart. When your mouse is pointed at the athlete's bar, it will display the athlete's name, the year of the medal and the event in which the medal was awarded.
 [![image](https://user-images.githubusercontent.com/57047582/134274019-9ac4e988-0215-4f3c-a5de-f81dd8bda8eb.png)](https://vizhub.com/RuofanChen/f1c54c3e6630474bb37f77bebd48f42f)
