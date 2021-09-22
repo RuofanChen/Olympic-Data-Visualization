@@ -27,4 +27,4 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Prototypes
 I’ve created a proof of concept visualization of this data.
-[![image]](https://vizhub.com/RuofanChen/af53cd1647bd45ebbfd0886ad51f5e48)
+[![image](https://user-images.githubusercontent.com/57047582/134273629-f4adb498-2362-47d5-a815-6ff1549d15b2.png)](https://vizhub.com/RuofanChen/af53cd1647bd45ebbfd0886ad51f5e48)
