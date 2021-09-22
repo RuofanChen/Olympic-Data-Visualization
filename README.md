@@ -22,7 +22,7 @@ The following tasks and questions will drive the visualization and interaction d
 * What about the country’s medal-winning project? Use a pie chart to show the country’s recent two Olympic medals.
 
 
-## Sketches. 
+## Sketches
 ![image](https://user-images.githubusercontent.com/57047582/134278848-6efd0612-9cad-4d9f-86be-19c21ebfd8ae.png)
 ![image](https://user-images.githubusercontent.com/57047582/134278407-43866c07-5215-45ed-b64e-9c8d10fbb1a0.png)
 
