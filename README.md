@@ -41,5 +41,4 @@ This bar chart shows the top athletes and their medals. This is an interactive b
 [![image](https://user-images.githubusercontent.com/57047582/134274019-9ac4e988-0215-4f3c-a5de-f81dd8bda8eb.png)](https://vizhub.com/RuofanChen/f1c54c3e6630474bb37f77bebd48f42f)
   
 We can select country to see the number of gold medals changes by year. 
-[![image](https://user-images.githubusercontent.com/57047582/134279155-c0ad0bdf-b212-4f86-a703-160fce094ad9.png)]
-(https://vizhub.com/RuofanChen/870734f4b8764c58a70833aed27a857d)
+[![image](https://user-images.githubusercontent.com/57047582/134279155-c0ad0bdf-b212-4f86-a703-160fce094ad9.png)](https://vizhub.com/RuofanChen/870734f4b8764c58a70833aed27a857d)
