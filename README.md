@@ -23,7 +23,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 
 ## Sketches. 
-![image](https://user-images.githubusercontent.com/57047582/134278357-048b0db5-f664-4bc9-b0ef-32be2a1e5c72.png)
+![image](https://user-images.githubusercontent.com/57047582/134278848-6efd0612-9cad-4d9f-86be-19c21ebfd8ae.png)
 ![image](https://user-images.githubusercontent.com/57047582/134278407-43866c07-5215-45ed-b64e-9c8d10fbb1a0.png)
 
 
