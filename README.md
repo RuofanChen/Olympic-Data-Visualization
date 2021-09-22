@@ -3,7 +3,7 @@
 The data I propose to visualize for my project is the Olympic data from 2000 to 2014. It is extracted from kaggle [link](https://www.kaggle.com/the-guardian/olympic-games).  
 The [oylmpic dataset](https://gist.github.com/RuofanChen/b8ab70bdb93f363cf55e6390ad39805b) used for this project is posted on github gist. 
 
-This dataset describes the performance of different countries in every Olympic Games (Summer and Winter) from the year 2000 to 2014.
+This dataset describes the performance of different countries in every Olympic Games (Summer and Winter).
 
 Data key features:
 * Year (quantitative): Year
