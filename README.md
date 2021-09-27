@@ -1,14 +1,23 @@
 # Olympic Data Visualization
 ## Data 
-The data I propose to visualize for my project is the Olympic data from 2000 to 2014. It is extracted from kaggle [link](https://www.kaggle.com/the-guardian/olympic-games).  
-The [oylmpic dataset](https://gist.github.com/RuofanChen/b8ab70bdb93f363cf55e6390ad39805b) used for this project is posted on github gist. 
 
-This dataset describes the performance of different countries in every Olympic Games (Summer and Winter).
+The data I propose to visualize for my project is the Olympic dataset. It is extracted the Olympic Games and medal data on [kaggle](https://www.kaggle.com/the-guardian/olympic-games) from 2000 to 2014. This dataset includes a row for every Olympic athlete that has won a medal since the year 2000. It contains 12 columns, namely Year, City, Sport, Discipline, Athlete, Gender, Event, Medal, Season, Country, 2015Population, 2015GDP.per.Capita.
 
-Data key features:
-* Year (quantitative): Year
-* Medal (categorical): Which medal (gold, silver or bronze) did this athlete obtain
-* Country (categorical): Which country of political groups does this athlete belong to
+The [olympic dataset](https://gist.github.com/RuofanChen/b8ab70bdb93f363cf55e6390ad39805b) used for this project is posted on github gist. 
+
+Features of the data:
+* Year (quantitative): The year the medal was awarded
+* City (qualitative): The host city of the Olympic Games
+* Sports (qualitative): In which sport was the medals awarded
+* Subject (qualitative): In which discipline the medal was awarded
+* Athlete (qualitative): The name of the athlete
+* Gender (qualitative): The gender of the athlete
+* Event (qualitative): In which event the medal was won
+* Medals (qualitative): The type (gold, silver or bronze) of medals awarded
+* Season (qualitative): The season of the Olympic Games
+* Country (qualitative): The country to which the athlete belongs
+* 2015Population (quantitative): The 2015 population of the country where the athlete belongs
+* GDP per capita in 2015. (Quantitative): 2015 GDP per capita of the country where the athlete belongs
 
 
 ## Questions & Tasks
