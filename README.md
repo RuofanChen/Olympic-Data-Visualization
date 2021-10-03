@@ -30,6 +30,8 @@ The following tasks and questions will drive the visualization and interaction d
 * Does the number of gold medals in a country changes over time? Can we see the trend?
 * What about the country’s medal-winning project? Use a pie chart to show the country’s recent two Olympic medals.
 
+## Note: All counts are based on athletes, not events. For example, if a country wins the swimming 4X100M freestyle relay, the number of athletes who have won medals for that event is 4. Our goal is to measure how many athletes have performed well in the Olympics and participated in the events.  
+  
 
 ## Sketches
 ![image](https://user-images.githubusercontent.com/57047582/134278848-6efd0612-9cad-4d9f-86be-19c21ebfd8ae.png)
