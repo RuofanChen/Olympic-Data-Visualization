@@ -13,7 +13,7 @@ Features of the data:
 * Athlete (qualitative): The name of the athlete
 * Gender (qualitative): The gender of the athlete
 * Event (qualitative): In which event the medal was won
-* Medals (qualitative): The type (gold, silver or bronze) of medals awarded
+* Medals (qualitative): The type (gold, silver, or bronze) of medals awarded
 * Season (qualitative): The season of the Olympic Games
 * Country (qualitative): The country to which the athlete belongs
 * 2015Population (quantitative): The 2015 population of the country where the athlete belongs
