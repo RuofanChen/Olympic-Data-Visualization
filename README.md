@@ -34,8 +34,16 @@ The following tasks and questions will drive the visualization and interaction d
   
 
 ## Sketches
-![image](https://user-images.githubusercontent.com/57047582/134278848-6efd0612-9cad-4d9f-86be-19c21ebfd8ae.png)
-![image](https://user-images.githubusercontent.com/57047582/134278407-43866c07-5215-45ed-b64e-9c8d10fbb1a0.png)
+### Part 1: Medal Map (Answering Q1). 
+![image](https://user-images.githubusercontent.com/57047582/136861738-257de065-3d90-41b6-b381-76e8ce9fba59.png)
+The bar chart on the map shows the number of medals won by a country from the 2000 to the 2014 Olympics. By sliding the bars in the bar chart below, the bar in the map will change with the year. When the mouse hovers over a country on the map, the name of the country and the number of medals won by the country will be displayed.  
+
+### Part 2: Scatter plot: GDP vs Number of Medals (Answering Q2)![image](https://user-images.githubusercontent.com/57047582/136861815-7987f4c2-4ad9-4d19-9e34-a63bd9405f38.png)
+When the mouse hovering the points, it displays the country name.  
+
+### Part 3: Best Athletes (Answering Q3)
+
+
 
 
 
