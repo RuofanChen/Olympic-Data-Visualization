@@ -24,11 +24,11 @@ Features of the data:
 The following tasks and questions will drive the visualization and interaction decisions for this project:  
 
 
-* Do most countries perform differently in the Winter Olympics and the Summer Olympics? Use a map to display the number of medals won by each country. According to the year and the type of Olympic Games (optional in winter and summer).
-* How does GDP affect a country's performance? Use GDP and population data from 2015.
-* Wants to see the athlete with the most medals? Use a bar chart to show the total number of medals, type of medals, the year of the medal and the event in which the medal was awarded.
-* Does the number of gold medals in a country change over time? Can we see the trend?
-* What about the country’s medal-winning project? Use a pie chart to show the country’s recent two Olympic medals.
+* Q1: Do most countries perform differently in the Winter Olympics and the Summer Olympics? Use a map to display the number of medals won by each country. According to the year and the type of Olympic Games (optional in winter and summer).
+* Q2: How does GDP affect a country's performance? Use GDP and population data from 2015.
+* Q3: Wants to see the athlete with the most medals? Use a bar chart to show the total number of medals, type of medals, the year of the medal and the event in which the medal was awarded.
+* Q4: Does the number of gold medals in a country change over time? Can we see the trend?
+* Q5: What about the country’s medal-winning project? Use a pie chart to show the country’s recent two Olympic medals.
 
 ### Note:   
 All counts are based on athletes, not events. For example, if a country wins the swimming 4X100M freestyle relay, the number of athletes who have won medals for that event is 4. The goal is to measure how many athletes performed well in the Olympics, participated in various events, and won medals in the events.  
