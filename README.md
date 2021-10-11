@@ -55,7 +55,13 @@ Create a line chart with a menu bar. It displays the number of gold medals chang
 ### Part 5: Pie Chart: Medal by Discipline in top 10 Countries (Answering Q5) 
 ![image](https://user-images.githubusercontent.com/57047582/135737129-f06d2819-f9c4-4cd0-a032-e15273606553.png)
 This is a multi-view that contains bar and pie charts. By selecting the bar chart on the LHS, the RHS pie chart shows the medal disciplines of the selected country.
-
+  
+  
+## Schedule of Deliverables  
+| Task  | Description | Delivery Date| Comment |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  |Content Cell  |Content Cell  |
+| Content Cell  | Content Cell  |Content Cell  |Content Cell  |
 
 
 
