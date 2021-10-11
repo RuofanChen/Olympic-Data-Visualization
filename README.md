@@ -35,14 +35,25 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 ### Part 1: Medal Map (Answering Q1). 
-![image](https://user-images.githubusercontent.com/57047582/136861738-257de065-3d90-41b6-b381-76e8ce9fba59.png)
+![image](https://user-images.githubusercontent.com/57047582/136861653-f4b00e38-1ea3-47f2-b820-073cafed722d.png)
 The bar chart on the map shows the number of medals won by a country from the 2000 to the 2014 Olympics. By sliding the bars in the bar chart below, the bar in the map will change with the year. When the mouse hovers over a country on the map, the name of the country and the number of medals won by the country will be displayed.  
 
-### Part 2: Scatter plot: GDP vs Number of Medals (Answering Q2)![image](https://user-images.githubusercontent.com/57047582/136861815-7987f4c2-4ad9-4d19-9e34-a63bd9405f38.png)
+### Part 2: Scatter plot: GDP vs Number of Medals (Answering Q2)![image](https://user-images.githubusercontent.com/57047582/136861505-fce7a6a1-f1e4-406d-8e84-72f41540b078.png)
 When the mouse hovering the points, it displays the country name.  
 
-### Part 3: Best Athletes (Answering Q3)
+### Part 3: Bar plot: Best Athletes (Answering Q3)
+![image](https://user-images.githubusercontent.com/57047582/135732009-e0b53c03-3994-442e-b59e-84099494cccd.png)
+It counts the number of medals won by athletes from 2000 to 2014. When sliding the mouse it will display this medal is awarded in which year, which event.  
 
+
+### Part 4: Line Chart: Gold Medal by Country (Answering Q4)
+![image](https://user-images.githubusercontent.com/57047582/135798043-bd8a937f-94b1-42e6-850c-78c8d6da77cd.png)
+This plot includes a menu bar. It displays the number of gold medals changed over Olympic games of one country.  
+
+
+### Part 5: Pie Chart: Medal by Discipline in top 10 Countries (Answering Q5) 
+![image](https://user-images.githubusercontent.com/57047582/135737129-f06d2819-f9c4-4cd0-a032-e15273606553.png)
+This is a multiple view plots including a bar chart and a pie chart. By selecting the bar chart on the LHS, the RHS pie chart shows the selected country's medal discipline. 
 
 
 
