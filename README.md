@@ -49,7 +49,7 @@ It counts the number of medals won by athletes from 2000 to 2014. When sliding t
 
 ### Part 4: Line Chart: Gold Medal by Country (Answering Q4)
 ![image](https://user-images.githubusercontent.com/57047582/135798043-bd8a937f-94b1-42e6-850c-78c8d6da77cd.png)
-This plot includes a menu bar. It displays the number of gold medals changed over Olympic games of one country.  
+Create a line chart with a menu bar. It displays the number of gold medals changed over Olympic games of one country.  
 
 
 ### Part 5: Pie Chart: Medal by Discipline in top 10 Countries (Answering Q5) 
