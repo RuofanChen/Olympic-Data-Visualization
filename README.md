@@ -85,6 +85,3 @@ This bar chart shows the top athletes and their medals. It's designed to emphasi
 
 It shows the number of gold medals in the Summer Olympics for a particular country from 2000 to 2012. It aims to highlight the changes in the number of gold medals in the Summer Olympics in various countries. The data is collected by Olympic data. This line refers to the trend of the number of gold medals. The user can use the menu to select the country.
 [![image](https://user-images.githubusercontent.com/57047582/135798043-bd8a937f-94b1-42e6-850c-78c8d6da77cd.png)](https://vizhub.com/RuofanChen/870734f4b8764c58a70833aed27a857d) 
-  
-This pie chart shows the top 10 countries and their medals by discipline. It's designed to emphasize the medal disciplines of top countries in olympic games which data is reoragnized by Olympic data. We can find that the medal-winning disciplines of each country are different, and they all have their own medal disciplines.
-[![image](https://user-images.githubusercontent.com/57047582/135737129-f06d2819-f9c4-4cd0-a032-e15273606553.png)](https://vizhub.com/RuofanChen/256b09a931664cb5bf9c6eb1f317a357?edit=files)
