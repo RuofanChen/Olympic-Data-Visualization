@@ -8,7 +8,7 @@ The [olympic dataset](https://gist.github.com/RuofanChen/b8ab70bdb93f363cf55e639
 Features of the data:
 * Year (quantitative): The year the medal was awarded
 * City (qualitative): The host city of the Olympic Games
-* Sports (qualitative): In which sport was the medals awarded
+* Sports (qualitative): In which sport the medals was awarded
 * Subject (qualitative): In which discipline the medal was awarded
 * Athlete (qualitative): The name of the athlete
 * Gender (qualitative): The gender of the athlete
