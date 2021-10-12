@@ -43,7 +43,7 @@ The bar chart on the map shows the number of medals won by a country from 2000 t
 When the mouse hovering the points, it displays the country name.  
 
 ### Part 3: Bar plot: Best Athletes (Answering Q3)
-![image](https://user-images.githubusercontent.com/57047582/135732009-e0b53c03-3994-442e-b59e-84099494cccd.png)
+![image](https://user-images.githubusercontent.com/57047582/136891248-24e2903b-bb31-42fe-ae19-d429bfd883ec.png)
 It counts the number of medals won by athletes from 2000 to 2014. When sliding the mouse it will display this medal is awarded in which year, which event.  
 
 
