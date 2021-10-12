@@ -39,7 +39,7 @@ All counts are based on athletes, not events. For example, if a country wins the
 ![image](https://user-images.githubusercontent.com/57047582/136890997-54e694de-5504-46c2-bde1-086ea42a4891.png)
 The bar chart on the map shows the number of medals won by a country from 2000 to the 2014 Olympics. By sliding the bars in the bar chart below, the bar in the map will change with the year. When the mouse hovers over a country on the map, the name of the country and the number of medals won by the country will be displayed.  
 
-### Part 2: Scatter plot: GDP vs Number of Medals (Answering Q2)![image](https://user-images.githubusercontent.com/57047582/136861505-fce7a6a1-f1e4-406d-8e84-72f41540b078.png)
+### Part 2: Scatter plot: GDP vs Number of Medals (Answering Q2)![image](https://user-images.githubusercontent.com/57047582/136891150-2a1aec91-8325-4a9c-aaed-3354054fc217.png)
 When the mouse hovering the points, it displays the country name.  
 
 ### Part 3: Bar plot: Best Athletes (Answering Q3)
