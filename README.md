@@ -24,7 +24,7 @@ Features of the data:
 The following tasks and questions will drive the visualization and interaction decisions for this project:  
 
 
-* Q1: Do most countries perform differently in the Winter Olympics and the Summer Olympics? Use a map to display the number of medals won by each country. According to the year and the type of Olympic Games.
+* Q1: Do most countries perform differently in the Winter Olympics and the Summer Olympics? Use a map to display the number of medals won by each country. 
 * Q2: How does GDP affect a country's performance? Use GDP and population data from 2015.
 * Q3: Wants to see the athlete with the most medals? Use a bar chart to show the total number of medals, type of medals, the year of the medal and the event in which the medal was awarded.
 * Q4: Does the number of gold medals in a country change over time? Can we see the trend?
