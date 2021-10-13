@@ -69,8 +69,8 @@ In each of the above sketches, the functions of the plot are described, which ar
 | Part 4 Line Chart: Gold Medal by Country |Create a line chart with a menu bar. It displays the number of gold medals changed over Olympic games of one country. | 10/27/2021  | add animation during the change|
 | Part 4 Line Chart: Gold Medal by Country |Create a line chart with a menu bar. It displays the number of gold medals changed over Olympic games of one country. | 11/03/2021  | Add points of on the plot and let the y-axis be int|
 | Part 5: Pie Chart: Medal by Discipline in top 10 Countries |This is a multi-view that contains bar and pie charts. By selecting the bar chart on the LHS, the RHS pie chart shows the medal disciplines of the selected country.| 11/10/2021  | /|
-| create a code base| reorganized the plots and push it on github| 11/17/2021  | /|
-| design a dashboard| reorganized the plots and push it on github| 11/24/2021  | /|
+| Productizing a Codebase| migrate from vizhub to github and publishing with github pages| 11/17/2021  | /|
+| design a dashboard| reorganized the plots and create a dashboard for them | 11/24/2021  | /|
 |make any possible changes|modify|12/01/2021|/|
 
 
