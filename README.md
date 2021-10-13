@@ -19,6 +19,9 @@ Features of the data:
 * 2015Population (quantitative): The 2015 population of the country where the athlete belongs
 * GDP per capita in 2015. (Quantitative): 2015 GDP per capita of the country where the athlete belongs
 
+### Note:   
+All counts are based on athletes, not events. For example, if a country wins the swimming 4X100M freestyle relay, the number of athletes who have won medals for that event is 4. The goal is to measure how many athletes performed well in the Olympics, participated in various events, and won medals in the events.  
+  
 
 ## Questions & Tasks
 The following tasks and questions will drive the visualization and interaction decisions for this project:  
@@ -30,9 +33,7 @@ The following tasks and questions will drive the visualization and interaction d
 * Q4: Does the number of gold medals in a country change over time? Can we see the trend?
 * Q5: What about the country’s medal-winning discipline? Use a pie chart to show the country’s Olympic medals by discipline.
 
-### Note:   
-All counts are based on athletes, not events. For example, if a country wins the swimming 4X100M freestyle relay, the number of athletes who have won medals for that event is 4. The goal is to measure how many athletes performed well in the Olympics, participated in various events, and won medals in the events.  
-  
+
 
 ## Sketches
 ### Part 1: Medal Map (Answering Q1). 
