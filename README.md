@@ -87,5 +87,5 @@ This bar chart shows the top athletes and their medals. It's designed to emphasi
 
 [![image](https://user-images.githubusercontent.com/57047582/135732009-e0b53c03-3994-442e-b59e-84099494cccd.png)](https://vizhub.com/RuofanChen/80a0c887e536419fb4a98ca16fa856e2) 
 
-
+This is a multiple views about number of medals by country through years. It shows the number of medals for countries from 2000 to 2014. Besides is a sliding bar. It aims to show the difference among countries in one year in graphical view and the changes in the number of medals among 14 years. 
 [![image](https://user-images.githubusercontent.com/57047582/136861653-f4b00e38-1ea3-47f2-b820-073cafed722d.png)](https://vizhub.com/RuofanChen/88b446e7eebe4c82b34e8e05c943dadc)
