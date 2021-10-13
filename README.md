@@ -88,3 +88,5 @@ This bar chart shows the top athletes and their medals. It's designed to emphasi
 [![image](https://user-images.githubusercontent.com/57047582/135732009-e0b53c03-3994-442e-b59e-84099494cccd.png)](https://vizhub.com/RuofanChen/80a0c887e536419fb4a98ca16fa856e2) 
 
 
+[![image](https://user-images.githubusercontent.com/57047582/136861653-f4b00e38-1ea3-47f2-b820-073cafed722d.png)]
+(https://vizhub.com/RuofanChen/88b446e7eebe4c82b34e8e05c943dadc)
