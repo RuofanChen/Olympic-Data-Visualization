@@ -86,5 +86,4 @@ This bar chart shows the top athletes and their medals. It's designed to emphasi
 
 [![image](https://user-images.githubusercontent.com/57047582/135732009-e0b53c03-3994-442e-b59e-84099494cccd.png)](https://vizhub.com/RuofanChen/80a0c887e536419fb4a98ca16fa856e2) 
 
-It shows the number of gold medals in the Summer Olympics for a particular country from 2000 to 2012. It aims to highlight the changes in the number of gold medals in the Summer Olympics in various countries. The data is collected by Olympic data. This line refers to the trend of the number of gold medals. The user can use the menu to select the country.
-[![image](https://user-images.githubusercontent.com/57047582/135798043-bd8a937f-94b1-42e6-850c-78c8d6da77cd.png)](https://vizhub.com/RuofanChen/870734f4b8764c58a70833aed27a857d) 
+
