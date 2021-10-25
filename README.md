@@ -98,6 +98,8 @@ line chart
 
 
 ## Iterated Prototypes  
-[![image](https://user-images.githubusercontent.com/57047582/138621455-82ae9342-c382-4aca-9073-8edf407a4d1d.png](https://vizhub.com/RuofanChen/9c95ca38fc1144128e365ddf56654c56)
+[![image](https://user-images.githubusercontent.com/57047582/138621455-82ae9342-c382-4aca-9073-8edf407a4d1d.png)](https://vizhub.com/RuofanChen/9c95ca38fc1144128e365ddf56654c56)
 The ocean changed to a lighter blue to make the data pop out more.  
+
+
 
