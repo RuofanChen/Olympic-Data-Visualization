@@ -102,4 +102,11 @@ line chart
 The ocean changed to a lighter blue to make the data pop out more.  
 
 
+[![image](https://user-images.githubusercontent.com/57047582/138621679-569148c4-bf91-4512-8c58-9a2de0771c85.png)](https://vizhub.com/RuofanChen/599528f7bb4b4ead84a8dc01d2af21c1)
+Instead of using a real GDP, the logarithm of GDP is used to spread the data(country) across the page.  
+
+[![image](https://user-images.githubusercontent.com/57047582/138621704-6221a8b6-91a2-4f63-85e5-4a878c08f81a.png)](https://vizhub.com/RuofanChen/b4009542cbe94cdbb209f69a744c5f77)
+I still use the left side bar chart and a right side pie chart to display the medal by discipline. But as suggested, I made some modification to make the pie chart more readable. The data of the pie chart is sorted, from the 12 o'clock position, and the number of medals by discipline is from large to small. Also, the number of medals of each discipline is displayed.
+
+
 
