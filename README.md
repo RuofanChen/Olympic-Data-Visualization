@@ -110,5 +110,5 @@ This pie chart shows the top 10 countries and their medals by discipline. It's d
 I still use a left side bar chart and a right side pie chart to display the medal by discipline. But as suggested, I made some modification to make the pie chart more readable. The data of the pie chart is sorted, from the 12 o'clock position, the number of medals by discipline is from large to small. Also, the number of medals of each discipline is displayed.
 
 
-[![image](https://user-images.githubusercontent.com/57047582/141003778-15cf0709-d5ae-45a3-9eb7-cd759d8136c0.png)](https://vizhub.com/RuofanChen/fb5858be1aab45dcbd785029da8e1e42). 
+[![image](https://user-images.githubusercontent.com/57047582/141003778-15cf0709-d5ae-45a3-9eb7-cd759d8136c0.png)](https://vizhub.com/RuofanChen/fb5858be1aab45dcbd785029da8e1e42)
 It shows the number of gold medals in the Olympics for a particular country from 2000 to 2014. It aims to highlight the changes in the number of gold medals in the Olympics in various countries. The lines refers to the trend of the number of gold medals. There are two lines on the plot. One is summer medal count, the other is winter medal count. The user can use the menu to select the country. The season menu can be selected to see the highlighted line in red.
