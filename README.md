@@ -113,7 +113,7 @@ I still use a left side bar chart and a right side pie chart to display the meda
 [![image](https://user-images.githubusercontent.com/57047582/141003778-15cf0709-d5ae-45a3-9eb7-cd759d8136c0.png)](https://vizhub.com/RuofanChen/fb5858be1aab45dcbd785029da8e1e42)
 It shows the number of gold medals in the Olympics for a particular country from 2000 to 2014. It aims to highlight the changes in the number of gold medals in the Olympics in various countries. The lines refer to the trend of the number of gold medals. There are two lines on the plot. One is the summer medal count, the other is the winter medal count. The user can use the menu to select the country. The season menu can be selected to see the highlighted line in red.
 
-[![image]()](https://vizhub.com/RuofanChen/7081966af06246908cdf9eaa2dc8af5c). 
+[![image](https://user-images.githubusercontent.com/57047582/142293534-4403a8bc-82b5-4501-b447-25a63efc9171.png)](https://vizhub.com/RuofanChen/7081966af06246908cdf9eaa2dc8af5c). 
 Iterate: the size of points (circles) reflect the population size (as the population affect the number of medals of a country).
 
 The color of the points changes from blue to red, since the circle size depends on population size now, some countries circle radius is small, red makes the points pop out more.
