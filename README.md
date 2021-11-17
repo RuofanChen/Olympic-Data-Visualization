@@ -113,10 +113,16 @@ I use a left side bar chart and a right side pie chart to display the medal by d
 ## Part 3: bar plot
 ### version one
 This bar chart shows the top athletes and their medals. It's designed to emphasize the top athletes in Olympic games which data is collected by Olympic data. Each bar references an athlete. This is an interactive bar chart. When your mouse is pointed at the athlete's bar, it will display the athlete's name, the year of the medal, and the event in which the medal was awarded.  
+[![image](https://user-images.githubusercontent.com/57047582/142294896-bbf252e2-ac2d-4476-b78f-5315f6b1e69d.png)](https://vizhub.com/RuofanChen/f1c54c3e6630474bb37f77bebd48f42f)
 
-[![image](https://user-images.githubusercontent.com/57047582/135732009-e0b53c03-3994-442e-b59e-84099494cccd.png)](https://vizhub.com/RuofanChen/80a0c887e536419fb4a98ca16fa856e2) 
 ### version two
+What changed: the text size (x-axis label and y-axis label), add number of bars displayed. 
+[![image](https://user-images.githubusercontent.com/57047582/135732009-e0b53c03-3994-442e-b59e-84099494cccd.png)](https://vizhub.com/RuofanChen/80a0c887e536419fb4a98ca16fa856e2) 
 
+### version three
+What changed: the color of the bar, since the categories are the type of medal: bronze, silver, and gold. The bin color has changed to the same color as the category. 
+
+[![image](https://user-images.githubusercontent.com/57047582/135732009-e0b53c03-3994-442e-b59e-84099494cccd.png)](https://vizhub.com/RuofanChen/80a0c887e536419fb4a98ca16fa856e2)
 ## Part 2: scatter plot
 ### version one
 This scatter plot depicts the number of medals in the 2012 Summer Olympics by country/region and country/region GDP (estimated in 2015). The x-axis is GDP and the y-axis is the number of medals. This is a marked scatter plot. When the mouse hovers over the point, the country name will be displayed
