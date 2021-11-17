@@ -122,7 +122,7 @@ What changed: the text size (x-axis label and y-axis label), add number of bars 
 ### version three
 What changed: the color of the bar, since the categories are the type of medal: bronze, silver, and gold. The bin color has changed to the same color as the category. 
 
-[![image](https://user-images.githubusercontent.com/57047582/135732009-e0b53c03-3994-442e-b59e-84099494cccd.png)](https://vizhub.com/RuofanChen/80a0c887e536419fb4a98ca16fa856e2)
+[![image](https://user-images.githubusercontent.com/57047582/142295562-c49bd468-5c4c-4f10-8ea5-d907750845a7.png)](https://vizhub.com/RuofanChen/80a0c887e536419fb4a98ca16fa856e2)
 ## Part 2: scatter plot
 ### version one
 This scatter plot depicts the number of medals in the 2012 Summer Olympics by country/region and country/region GDP (estimated in 2015). The x-axis is GDP and the y-axis is the number of medals. This is a marked scatter plot. When the mouse hovers over the point, the country name will be displayed
