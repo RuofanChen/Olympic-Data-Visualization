@@ -90,7 +90,7 @@ This is a multiple views about number of medals by country through years. It sho
 
 ### version two
 What changed: the ocean changed to a lighter blue to make the data pop out more.  
-[![image](https://user-images.githubusercontent.com/57047582/138621455-82ae9342-c382-4aca-9073-8edf407a4d1d.png)](https://vizhub.com/RuofanChen/9c95ca38fc1144128e365ddf56654c56)
+[![image](https://user-images.githubusercontent.com/57047582/138621455-82ae9342-c382-4aca-9073-8edf407a4d1d.png)](https://vizhub.com/RuofanChen/87000cd80dbf4472b45696660e378526)
 
 ## Part four: line chart
 ### version one
