@@ -81,31 +81,42 @@ In each of the above sketches, the functions of the plot are described, which ar
 ## Prototypes
 I’ve created a proof of concept visualization of this data.  
 
-This bar chart shows the top athletes and their medals. It's designed to emphasize the top athletes in Olympic games which data is collected by Olympic data. Each bar references an athlete. This is an interactive bar chart. When your mouse is pointed at the athlete's bar, it will display the athlete's name, the year of the medal, and the event in which the medal was awarded.  
 
-[![image](https://user-images.githubusercontent.com/57047582/135732009-e0b53c03-3994-442e-b59e-84099494cccd.png)](https://vizhub.com/RuofanChen/80a0c887e536419fb4a98ca16fa856e2) 
-
+  
+## Part 1: world map
+### version one
 This is a multiple views about number of medals by country through years. It shows the number of medals for countries from 2000 to 2014. Besides is a sliding bar. It aims to show the difference among countries in one year in graphical view and the changes in the number of medals among 14 years. 
 [![image](https://user-images.githubusercontent.com/57047582/136861653-f4b00e38-1ea3-47f2-b820-073cafed722d.png)](https://vizhub.com/RuofanChen/88b446e7eebe4c82b34e8e05c943dadc)
 
-line chart
+### version two
+What changed: the ocean changed to a lighter blue to make the data pop out more.  
+[![image](https://user-images.githubusercontent.com/57047582/138621455-82ae9342-c382-4aca-9073-8edf407a4d1d.png)](https://vizhub.com/RuofanChen/9c95ca38fc1144128e365ddf56654c56)
+
+## Part four: line chart
+### version one
 [![image](https://user-images.githubusercontent.com/57047582/135798043-bd8a937f-94b1-42e6-850c-78c8d6da77cd.png)](https://vizhub.com/RuofanChen/870734f4b8764c58a70833aed27a857d)
 
-
-## Iterative Prototypes  
-[![image](https://user-images.githubusercontent.com/57047582/138621455-82ae9342-c382-4aca-9073-8edf407a4d1d.png)](https://vizhub.com/RuofanChen/9c95ca38fc1144128e365ddf56654c56)
-The ocean changed to a lighter blue to make the data pop out more.  
-
-
-[![image](https://user-images.githubusercontent.com/57047582/138621704-6221a8b6-91a2-4f63-85e5-4a878c08f81a.png)](https://vizhub.com/RuofanChen/b4009542cbe94cdbb209f69a744c5f77)
-This pie chart shows the top 10 countries and their medals by discipline. It's designed to emphasize the medal disciplines of top countries in olympic games which data is reoragnized by Olympic data. We can find that the medal-winning disciplines of each country are different, and they all have their own medal disciplines.  
-
-I still use a left side bar chart and a right side pie chart to display the medal by discipline. But as suggested, I made some modification to make the pie chart more readable. The data of the pie chart is sorted, from the 12 o'clock position, the number of medals by discipline is from large to small. Also, the number of medals of each discipline is displayed.
-
+### version two
+It shows the number of gold medals in the Olympics for a particular country from 2000 to 2014. It aims to highlight the changes in the number of gold medals in the Olympics in various countries. The lines refer to the trend of the number of gold medals. There are two lines on the plot. One is the summer medal count, the other is the winter medal count. The user can use the menu to select the country. The season menu can be selected to see the highlighted line in red.
 
 [![image](https://user-images.githubusercontent.com/57047582/141003778-15cf0709-d5ae-45a3-9eb7-cd759d8136c0.png)](https://vizhub.com/RuofanChen/fb5858be1aab45dcbd785029da8e1e42)
-It shows the number of gold medals in the Olympics for a particular country from 2000 to 2014. It aims to highlight the changes in the number of gold medals in the Olympics in various countries. The lines refer to the trend of the number of gold medals. There are two lines on the plot. One is the summer medal count, the other is the winter medal count. The user can use the menu to select the country. The season menu can be selected to see the highlighted line in red.
   
+
+## Part 5: bar plot and pie chart
+### version one
+This pie chart shows the top 10 countries and their medals by discipline. It's designed to emphasize the medal disciplines of top countries in olympic games which data is reoragnized by Olympic data. We can find that the medal-winning disciplines of each country are different, and they all have their own medal disciplines.  
+
+I use a left side bar chart and a right side pie chart to display the medal by discipline. But as suggested, I made some modification to make the pie chart more readable. The data of the pie chart is sorted, from the 12 o'clock position, the number of medals by discipline is from large to small. Also, the number of medals of each discipline is displayed.
+[![image](https://user-images.githubusercontent.com/57047582/138621704-6221a8b6-91a2-4f63-85e5-4a878c08f81a.png)](https://vizhub.com/RuofanChen/b4009542cbe94cdbb209f69a744c5f77)
+
+
+## Part 3: bar plot
+### version one
+This bar chart shows the top athletes and their medals. It's designed to emphasize the top athletes in Olympic games which data is collected by Olympic data. Each bar references an athlete. This is an interactive bar chart. When your mouse is pointed at the athlete's bar, it will display the athlete's name, the year of the medal, and the event in which the medal was awarded.  
+
+[![image](https://user-images.githubusercontent.com/57047582/135732009-e0b53c03-3994-442e-b59e-84099494cccd.png)](https://vizhub.com/RuofanChen/80a0c887e536419fb4a98ca16fa856e2) 
+### version two
+
 ## Part 2: scatter plot
 ### version one
 This scatter plot depicts the number of medals in the 2012 Summer Olympics by country/region and country/region GDP (estimated in 2015). The x-axis is GDP and the y-axis is the number of medals. This is a marked scatter plot. When the mouse hovers over the point, the country name will be displayed
