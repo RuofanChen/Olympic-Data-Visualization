@@ -126,7 +126,7 @@ What changed: the text size (x-axis label and y-axis label), add number of bars 
 ### version three
 What changed: the color of the bar, since the categories are the type of medal: bronze, silver, and gold. The bin color has changed to the same color as the category. 
 
-[![image](https://user-images.githubusercontent.com/57047582/142295562-c49bd468-5c4c-4f10-8ea5-d907750845a7.png)](https://vizhub.com/RuofanChen/80a0c887e536419fb4a98ca16fa856e2)
+[![image](https://user-images.githubusercontent.com/57047582/142295562-c49bd468-5c4c-4f10-8ea5-d907750845a7.png)](https://vizhub.com/RuofanChen/b20327fb2d704265b8c3cd70ee4c09e1)
 
 ## Part 2: scatter plot
 ### version one
