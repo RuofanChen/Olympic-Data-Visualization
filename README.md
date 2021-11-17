@@ -72,7 +72,7 @@ In each of the above sketches, the functions of the plot are described, which ar
 | Part 4 Line Chart: Gold Medal by Country |Create a line chart with a menu bar. It displays the number of gold medals changed over Olympic games of one country. | 11/03/2021  | Two selected menu|
 | Part 4 Line Chart: Gold Medal by Country |Create a line chart with a menu bar. It displays the number of gold medals changed over Olympic games of one country. | 11/03/2021  | add animation during the change|
 | Productizing a Codebase| migrate from vizhub to github and publishing with github pages| 11/17/2021  | /|
-| design a dashboard| reorganized the plots and create a dashboard for them | 11/24/2021  | /|
+| refine visualizations| | 11/24/2021  | /|
 |make any possible changes|modify|12/01/2021|/|
 
 
@@ -112,3 +112,9 @@ I still use a left side bar chart and a right side pie chart to display the meda
 
 [![image](https://user-images.githubusercontent.com/57047582/141003778-15cf0709-d5ae-45a3-9eb7-cd759d8136c0.png)](https://vizhub.com/RuofanChen/fb5858be1aab45dcbd785029da8e1e42)
 It shows the number of gold medals in the Olympics for a particular country from 2000 to 2014. It aims to highlight the changes in the number of gold medals in the Olympics in various countries. The lines refer to the trend of the number of gold medals. There are two lines on the plot. One is the summer medal count, the other is the winter medal count. The user can use the menu to select the country. The season menu can be selected to see the highlighted line in red.
+
+[![image]()](https://vizhub.com/RuofanChen/7081966af06246908cdf9eaa2dc8af5c). 
+Iterate: the size of points (circles) reflect the population size (as the population affect the number of medals of a country).
+
+The color of the points changes from blue to red, since the circle size depends on population size now, some countries circle radius is small, red makes the points pop out more.
+
