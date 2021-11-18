@@ -142,7 +142,7 @@ What changed: instead of using a real GDP, the logarithm of GDP is used to sprea
 
 
 ### version three
-What changed: the size of points (circles) reflect the population size (as the population affect the number of medals of a country). The color of the points changes from blue to red, since the circle size depends on population size now, some countries circle radius is small, red makes the points pop out more.
+What changed: the size of points (circles) reflects the population size (as the population affects the number of medals of a country). The color of the points changes from blue to red, since the circle size depends on population size now, some countries circle radius is small, red makes the points pop out more.
 [![image](https://user-images.githubusercontent.com/57047582/142293534-4403a8bc-82b5-4501-b447-25a63efc9171.png)](https://vizhub.com/RuofanChen/7081966af06246908cdf9eaa2dc8af5c). 
 
 
