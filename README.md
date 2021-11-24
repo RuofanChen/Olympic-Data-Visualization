@@ -91,16 +91,6 @@ This is a multiple views about number of medals by country through years. It sho
 ### version two
 What changed: the ocean changed to a lighter blue to make the data pop out more.  
 [![image](https://user-images.githubusercontent.com/57047582/138621455-82ae9342-c382-4aca-9073-8edf407a4d1d.png)](https://vizhub.com/RuofanChen/87000cd80dbf4472b45696660e378526)
-
-## Part four: line chart
-### version one
-It shows the number of gold medals in the Olympics for a particular country from 2000 to 2012. It aims to highlight the changes in the number of gold medals in the Summer Olympics in various countries. The lines refer to the trend of the number of gold medals.
-[![image](https://user-images.githubusercontent.com/57047582/135798043-bd8a937f-94b1-42e6-850c-78c8d6da77cd.png)](https://vizhub.com/RuofanChen/870734f4b8764c58a70833aed27a857d)
-
-### version two
-What changed: there are two lines on the plot. One is the summer medal count, the other is the winter medal count. The user can use the menu to select the country. The season menu can be selected to see the highlighted line in red.
-
-[![image](https://user-images.githubusercontent.com/57047582/141003778-15cf0709-d5ae-45a3-9eb7-cd759d8136c0.png)](https://vizhub.com/RuofanChen/fb5858be1aab45dcbd785029da8e1e42)
   
 
 ## Part 5: bar plot and pie chart
@@ -145,4 +135,18 @@ What changed: instead of using a real GDP, the logarithm of GDP is used to sprea
 What changed: the size of points (circles) reflects the population size (as the population affects the number of medals of a country). The color of the points changes from blue to red, since the circle size depends on population size now, some countries circle radius is small, red makes the points pop out more.
 [![image](https://user-images.githubusercontent.com/57047582/142293534-4403a8bc-82b5-4501-b447-25a63efc9171.png)](https://vizhub.com/RuofanChen/7081966af06246908cdf9eaa2dc8af5c). 
 
+## Part four: line chart
+### version one
+It shows the number of gold medals in the Olympics for a particular country from 2000 to 2012. It aims to highlight the changes in the number of gold medals in the Summer Olympics in various countries. The lines refer to the trend of the number of gold medals.
+[![image](https://user-images.githubusercontent.com/57047582/135798043-bd8a937f-94b1-42e6-850c-78c8d6da77cd.png)](https://vizhub.com/RuofanChen/870734f4b8764c58a70833aed27a857d)
 
+### version two
+What changed: there are two lines on the plot. One is the summer medal count, the other is the winter medal count. The user can use the menu to select the country. The season menu can be selected to see the highlighted line in red.
+
+[![image](https://user-images.githubusercontent.com/57047582/141003778-15cf0709-d5ae-45a3-9eb7-cd759d8136c0.png)](https://vizhub.com/RuofanChen/fb5858be1aab45dcbd785029da8e1e42)
+
+### version three
+What changed: add points to the line chart to make it clearer (because it is not continuous data). In addition, the Summer Olympics and Winter Olympics are divided into two line plots, because when the y-axis is scaled according to its value, the changes can be seen more clearly. In addistion, it is observed that the number of gold medals in each Winter Olympics in many countries in the Winter Olympics is 0 , so these countries will no longer be included.  
+[![image](https://user-images.githubusercontent.com/57047582/143159259-418cc911-d9ed-41a1-9e47-b3cb5957e2b7.png)](https://vizhub.com/RuofanChen/1e2c4566a07749e2ad9461850b1fef5b)
+
+[![image](https://user-images.githubusercontent.com/57047582/143159311-6a7a1bab-0df0-4727-993b-037ccd7153c6.png)](https://vizhub.com/RuofanChen/649378d509d347949ef5fde28092883c)
