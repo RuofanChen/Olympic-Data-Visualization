@@ -1,6 +1,6 @@
 # Olympic Data Visualization
 
-## Presentation of this project, please visit ![Youtube](https://youtu.be/DYntO95AMQs)
+## Presentation of this project, please visit [Youtube](https://youtu.be/DYntO95AMQs)
 ## Data 
 
 The data I propose to visualize for my project is the Olympic dataset. It is extracted the Olympic Games and medal data on [kaggle](https://www.kaggle.com/the-guardian/olympic-games) from 2000 to 2014. This dataset includes 9679 rows for every Olympic athlete that has won a medal since the year 2000. It contains 12 columns, namely Year, City, Sport, Discipline, Athlete, Gender, Event, Medal, Season, Country, 2015Population, 2015GDP.per.Capita.
